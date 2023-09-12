@@ -36,7 +36,6 @@ convert html to markdown
 - blockquote
 - code
 
-
 ## 转化效果
 为了测试转化效果，我分别从github.io、gitbook、readthedoc三个站点随便提取了个正文的HTML内容，然后并将其转成markdown，看了下效果，比较符合自己的预期。
 当然，效果并不可能是100%的。
